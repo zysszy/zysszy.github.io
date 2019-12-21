@@ -154,7 +154,7 @@ $(function () {
 
     }
 
-    $(page_right).addClass('page-right-zero-height').removeClass('page-right-normal-height');
+    // $(page_right).addClass('page-right-normal-height').removeClass('page-right-normal-height');
 
     /*--------------------------------
         04. Menu
